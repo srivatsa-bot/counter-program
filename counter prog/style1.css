@@ -1,0 +1,23 @@
+#mylab{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div1{
+    
+    text-align: center;
+    
+}
+.button{
+    padding: 10px 40px;
+    font-size: 1.5em;
+    color: azure;
+    background-color: rgb(203, 161, 242);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.5s;;
+}
+.button:hover{
+    background-color: blueviolet;
+}
